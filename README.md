@@ -1,5 +1,5 @@
 https://img.shields.io/npm/v/@arjunsundaram4/spaceremover
-# @bamblehorse/tiny
+# @arjunsundaram4/spaceremover
 
 [![npm (scoped)](https://img.shields.io/npm/v/@arjunsundaram4/spaceremover)](https://img.shields.io/npm/v/@arjunsundaram4/spaceremover)
 [![npm bundle size (minified)](https://img.shields.io/npm/v/@arjunsundaram4/spaceremover)](https://img.shields.io/npm/v/@arjunsundaram4/spaceremover)
